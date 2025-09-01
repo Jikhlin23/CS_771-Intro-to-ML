@@ -1,0 +1,15 @@
+# Directory structure
+
+Project-Group_No - 59/
+├── main
+├── models tried
+├── README
+├── test_predictions
+└── Detailed Report
+
+1. main contains 5 python files (emoticon, deepfeat, textseq, combined, and Group_no_59) and necessary weights(.pkl and .h5 files) 
+2. Group_no_59 is the main python file which contains all models, which on running generates test predictions. 
+3. Other python files contains the best model for that dataset. (These are only for reference, and not necessary for running group_no_59 file)
+4. models tried contains the different models we have tried. It contains jupyter notebooks. 
+5. test_predictions contains 4 .txt files which are the predictions of the test dataset of the individual datasets and combined dataset and are named as required.
+6. Detailed report contains all the analysis. 
